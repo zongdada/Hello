@@ -1,5 +1,5 @@
 public class HelloGit {
     public static void main(String[] args) {
-        System.out.println("love");
+        System.out.println("you");
     }
 }
